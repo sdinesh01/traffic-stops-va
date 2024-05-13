@@ -1,7 +1,7 @@
 
 # Visualizing traffic stop data
 
-<img src="ezgif.com-resize-gif.gif" />
+<img src="ezgif.com-resize.gif" />
 
 I will use the Virginia Community Policing Dataset to analyze data collected during traffic stops be
 tween 2020-2023. This dataset was aggregated by Virginia State Police in response to a 2020 state law
