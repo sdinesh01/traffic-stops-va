@@ -1,0 +1,122 @@
+[
+    {
+      "FIELD1": 0,
+      "action_taken": "ARREST",
+      "race": "AMERICAN INDIAN OR ALASKA NATIVE",
+      "counts": 103
+    },
+    {
+      "FIELD1": 1,
+      "action_taken": "ARREST",
+      "race": "ASIAN OR NATIVE HAWAIIAN OR OTHER PACIFIC ISLANDER",
+      "counts": 1711
+    },
+    {
+      "FIELD1": 2,
+      "action_taken": "ARREST",
+      "race": "BLACK OR AFRICAN AMERICAN",
+      "counts": 32563
+    },
+    {
+      "FIELD1": 3,
+      "action_taken": "ARREST",
+      "race": "UNKNOWN",
+      "counts": 753
+    },
+    {
+      "FIELD1": 4,
+      "action_taken": "ARREST",
+      "race": "WHITE",
+      "counts": 43332
+    },
+    {
+      "FIELD1": 5,
+      "action_taken": "CITATION/SUMMONS",
+      "race": "AMERICAN INDIAN OR ALASKA NATIVE",
+      "counts": 6038
+    },
+    {
+      "FIELD1": 6,
+      "action_taken": "CITATION/SUMMONS",
+      "race": "ASIAN OR NATIVE HAWAIIAN OR OTHER PACIFIC ISLANDER",
+      "counts": 41921
+    },
+    {
+      "FIELD1": 7,
+      "action_taken": "CITATION/SUMMONS",
+      "race": "BLACK OR AFRICAN AMERICAN",
+      "counts": 492513
+    },
+    {
+      "FIELD1": 8,
+      "action_taken": "CITATION/SUMMONS",
+      "race": "UNKNOWN",
+      "counts": 82012
+    },
+    {
+      "FIELD1": 9,
+      "action_taken": "CITATION/SUMMONS",
+      "race": "WHITE",
+      "counts": 1112787
+    },
+    {
+      "FIELD1": 10,
+      "action_taken": "NO ENFORCEMENT ACTION",
+      "race": "AMERICAN INDIAN OR ALASKA NATIVE",
+      "counts": 234
+    },
+    {
+      "FIELD1": 11,
+      "action_taken": "NO ENFORCEMENT ACTION",
+      "race": "ASIAN OR NATIVE HAWAIIAN OR OTHER PACIFIC ISLANDER",
+      "counts": 1461
+    },
+    {
+      "FIELD1": 12,
+      "action_taken": "NO ENFORCEMENT ACTION",
+      "race": "BLACK OR AFRICAN AMERICAN",
+      "counts": 36791
+    },
+    {
+      "FIELD1": 13,
+      "action_taken": "NO ENFORCEMENT ACTION",
+      "race": "UNKNOWN",
+      "counts": 3915
+    },
+    {
+      "FIELD1": 14,
+      "action_taken": "NO ENFORCEMENT ACTION",
+      "race": "WHITE",
+      "counts": 48877
+    },
+    {
+      "FIELD1": 15,
+      "action_taken": "WARNING ISSUED",
+      "race": "AMERICAN INDIAN OR ALASKA NATIVE",
+      "counts": 2845
+    },
+    {
+      "FIELD1": 16,
+      "action_taken": "WARNING ISSUED",
+      "race": "ASIAN OR NATIVE HAWAIIAN OR OTHER PACIFIC ISLANDER",
+      "counts": 22737
+    },
+    {
+      "FIELD1": 17,
+      "action_taken": "WARNING ISSUED",
+      "race": "BLACK OR AFRICAN AMERICAN",
+      "counts": 270993
+    },
+    {
+      "FIELD1": 18,
+      "action_taken": "WARNING ISSUED",
+      "race": "UNKNOWN",
+      "counts": 23639
+    },
+    {
+      "FIELD1": 19,
+      "action_taken": "WARNING ISSUED",
+      "race": "WHITE",
+      "counts": 551139
+    }
+]
