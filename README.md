@@ -1,14 +1,14 @@
 
 # Visualizing traffic stop data
 
- I will use the Virginia Community Policing Dataset to analyze data collected during traffic stops be
+I will use the Virginia Community Policing Dataset to analyze data collected during traffic stops be
 tween 2020-2023. This dataset was aggregated by Virginia State Police in response to a 2020 state law
 mandating traffic stop reporting.
  
- The data can be downloaded as a CSV file from the Virginia Open Data Portal.
+ The data can be downloaded as a CSV file from the [Virginia Open Data Portal](https://data.virginia.gov/dataset/community-policing-data).
  
  Broadly, I want to know what the new traffic stop reporting/data collection requirements tell us
- about policing outcomes by demographic groups in Virginia. View the live link (here)[https://sdinesh01.github.io/traffic-stops-va/]. 
+ about policing outcomes by demographic groups in Virginia. View the live link [here](https://sdinesh01.github.io/traffic-stops-va/). 
  
  The questions I aim to answer include:
  
