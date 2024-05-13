@@ -1,6 +1,6 @@
 
 # Visualizing traffic stop data
-
+ ### View the live link [here](https://sdinesh01.github.io/traffic-stops-va/). 
 <img src="ezgif.com-resize.gif" />
 
 I will use the Virginia Community Policing Dataset to analyze data collected during traffic stops be
@@ -11,8 +11,6 @@ mandating traffic stop reporting.
  
  Broadly, I want to know what the new traffic stop reporting/data collection requirements tell us
  about policing outcomes by demographic groups in Virginia. 
- 
- ### View the live link [here](https://sdinesh01.github.io/traffic-stops-va/). 
  
  The questions I aim to answer include:
  
